@@ -49,7 +49,7 @@ enriched as(
 SELECT 
     event_id,
     event_name,
-    event_category
+    event_category,
 
     user_id,
     account_id,
